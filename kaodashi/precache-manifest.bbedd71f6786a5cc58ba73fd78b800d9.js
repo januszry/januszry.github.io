@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6aea5b89c9a2373f3169878af5fed7e",
+    "revision": "fbfc0942033642a6b2b9eb49cd62e5c9",
     "url": "/kaodashi/index.html"
   },
   {
-    "revision": "414132cc5a2300287bea",
+    "revision": "35ea576270d222a1567a",
     "url": "/kaodashi/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kaodashi/static/js/2.f556e362.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "414132cc5a2300287bea",
-    "url": "/kaodashi/static/js/main.96c30d3e.chunk.js"
+    "revision": "35ea576270d222a1567a",
+    "url": "/kaodashi/static/js/main.4aa12802.chunk.js"
   },
   {
     "revision": "d127567f64b431ea9a62",
