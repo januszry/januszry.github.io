@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/kaodashi/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/kaodashi/static/js/main.ba8ad663.chunk.js",
-    "main.js.map": "/kaodashi/static/js/main.ba8ad663.chunk.js.map",
+    "main.css": "/kaodashi/static/css/main.d05a539b.chunk.css",
+    "main.js": "/kaodashi/static/js/main.65763edb.chunk.js",
+    "main.js.map": "/kaodashi/static/js/main.65763edb.chunk.js.map",
     "runtime-main.js": "/kaodashi/static/js/runtime-main.76df1ac0.js",
     "runtime-main.js.map": "/kaodashi/static/js/runtime-main.76df1ac0.js.map",
     "static/js/2.18e7507c.chunk.js": "/kaodashi/static/js/2.18e7507c.chunk.js",
     "static/js/2.18e7507c.chunk.js.map": "/kaodashi/static/js/2.18e7507c.chunk.js.map",
     "index.html": "/kaodashi/index.html",
-    "precache-manifest.cd0da5ce46cd25c0baad70cb983a06f3.js": "/kaodashi/precache-manifest.cd0da5ce46cd25c0baad70cb983a06f3.js",
+    "precache-manifest.d882dbcd74011e9a3ef8da9c438233d7.js": "/kaodashi/precache-manifest.d882dbcd74011e9a3ef8da9c438233d7.js",
     "service-worker.js": "/kaodashi/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/kaodashi/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.18e7507c.chunk.js.LICENSE.txt": "/kaodashi/static/js/2.18e7507c.chunk.js.LICENSE.txt"
+    "static/css/main.d05a539b.chunk.css.map": "/kaodashi/static/css/main.d05a539b.chunk.css.map",
+    "static/js/2.18e7507c.chunk.js.LICENSE.txt": "/kaodashi/static/js/2.18e7507c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/kaodashi/static/media/Monoton-Regular.411051cb.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.76df1ac0.js",
     "static/js/2.18e7507c.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ba8ad663.chunk.js"
+    "static/css/main.d05a539b.chunk.css",
+    "static/js/main.65763edb.chunk.js"
   ]
 }
